@@ -17,8 +17,8 @@ To properly set up and run this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://[github.com/your-username/your-repo-name.git](https://github.com/Nirmal0214/SAS-Workings)
+   cd SAS-Workings
    ```
 
 2. **Dataset Preparation**:
