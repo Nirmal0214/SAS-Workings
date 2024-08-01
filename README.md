@@ -51,10 +51,6 @@ To perform the analysis:
 
 Contributions to enhance the project are welcomed. Please fork the repository and submit a pull request with your improvements. Make sure your changes are well-documented and include appropriate tests or examples.
 
-## License
-
-This project is made available under the MIT License. For more details, see the [LICENSE](LICENSE) file in the repository.
-
 ## Contact
 - **Email**: [nirmalkumar0214@gmail.com](nirmalkumar0214@gmail.com)
 
