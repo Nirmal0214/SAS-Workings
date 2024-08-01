@@ -47,10 +47,6 @@ To perform the analysis:
 - **Statistical Summary**: Provides a statistical summary of temperature and rain variables using `PROC MEANS`.
 - **Additional Plot**: Creates a histogram with a density overlay for wind speed to explore its distribution.
 
-## Contributing
-
-Contributions to enhance the project are welcomed. Please fork the repository and submit a pull request with your improvements. Make sure your changes are well-documented and include appropriate tests or examples.
-
 ## Contact
 - **Email**: [nirmalkumar0214@gmail.com](nirmalkumar0214@gmail.com)
 
